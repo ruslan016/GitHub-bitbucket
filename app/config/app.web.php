@@ -6,10 +6,6 @@ return [
             'controller' => 'Tutorial\Controller\IndexController',
             'action'     => 'index'
         ],
-        '/post' => [
-            'controller' => 'Tutorial\Controller\IndexController',
-            'action'     => 'post'
-        ],
         '/admin' => [
             'controller' => 'Tutorial\Controller\IndexController',
             'action'     => 'admin'
